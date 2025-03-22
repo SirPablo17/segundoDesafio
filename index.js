@@ -18,7 +18,7 @@ do {
     if(saldVictory <= 10){
 
         console.log("O Heró tem um saldo de " + saldVictory + ", está no nível de " + rankHeroi[0])
-        saldVictory++
+        saldVictory++;
         i++;
 
     }
@@ -32,35 +32,35 @@ do {
     else if (saldVictory <= 50 ){
 
         console.log("O Heró tem um saldo de " + saldVictory + ", está no nível de " + rankHeroi[2])
-        saldVictory++
+        saldVictory++;
         i++;
 
     }
     else if (saldVictory <= 80 ){
 
         console.log("O Heró tem um saldo de " + saldVictory + ", está no nível de " + rankHeroi[3])
-        saldVictory++
+        saldVictory++;
         i++;
 
     }
     else if (saldVictory <= 90 ){
 
         console.log("O Heró tem um saldo de " + saldVictory + ", está no nível de " + rankHeroi[4])
-        saldVictory++
+        saldVictory++;
         i++;
 
     }
     else if (saldVictory <= 100 ){
 
         console.log("O Heró tem um saldo de " + saldVictory + ", está no nível de " + rankHeroi[5])
-        saldVictory++
+        saldVictory++;
         i++;
 
     }
     else {
 
         console.log("O Heró tem um saldo de " + saldVictory + ", está no nível de " + rankHeroi[6])
-        saldVictory++
+        saldVictory++;
         i++;
 
     }
